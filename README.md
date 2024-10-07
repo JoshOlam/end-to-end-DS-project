@@ -206,7 +206,7 @@ The project contains a FastAPI app for serving the trained model (via `app.py`),
    You can run the API by executing:
 
    ```bash
-   uuvicorn app:app
+   uvicorn app:app
    ```
 
 Or simply use Python
